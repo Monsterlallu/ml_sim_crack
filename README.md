@@ -1,3 +1,8 @@
+<h1 align="center">ɪͥᴛͭsᷤ ᴍͫᴇͤ☚⃟፝✪͜͡𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐋𝐀𝐋𝐋𝐔≛⃝𝗢𝗚⁩≛⃝🇦🇴𝗦𝗜𝗡𝗖𝗘 2020≛⃝🇦🇴 v.1</h1>
+
+
+
+
 <h1 align="center">cc_sim_crack v.1</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
