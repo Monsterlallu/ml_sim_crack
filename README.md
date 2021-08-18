@@ -70,7 +70,7 @@ ENTER THE COUNT OF SPERM: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 ## CONTRIBUTORS:
 
 - **CYBER CRACKER**<br>
-[-] Mail At:https:cybercracker66@gmail.com
+[-] Mail At:https:monsterlallu@gmail.com
 
 
 
@@ -82,7 +82,7 @@ ENTER THE COUNT OF SPERM: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 Feel Free To Open An Issue...
 
 ```
-                 Mail:https://github.com/cc-cybercrackerofficial
+                 Mail:https://github.com/Monsterlallu
        Instagram account:https://www.instagram.com/cybercrackerofficial
 ```
 
