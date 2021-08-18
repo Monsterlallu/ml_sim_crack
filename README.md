@@ -54,8 +54,8 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/Monsterlallu/cc_sim_crack.git
-cd cc_sim_crack
+git clone https://github.com/Monsterlallu/ml_sim_crack.git
+cd ml_sim_crack
 chmod +x requirement.sh
 bash requirement.sh
 chmod +x cc_sim_crack.py
