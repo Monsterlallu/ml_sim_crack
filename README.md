@@ -58,8 +58,8 @@ git clone https://github.com/Monsterlallu/ml_sim_crack.git
 cd ml_sim_crack
 chmod +x requirement.sh
 bash requirement.sh
-chmod +x cc_sim_crack.py
-python3 cc_sim_crack.py
+chmod +x ml_sim_crack.py
+python3 ml_sim_crack.py
 
 
 
