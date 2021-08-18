@@ -88,7 +88,7 @@ Feel Free To Open An Issue...
 
 ```
                  Mail:https://github.com/Monsterlallu
-       Instagram account:https://www.instagram.com/cybercrackerofficial
+       Instagram account:https://instagram.com/monster_lallu_offical?utm_medium=copy_link
 ```
 
 <a href="https:
