@@ -5,9 +5,9 @@ string = """ ᴅᴇᴠᴇʟᴏᴘᴇʀ : MONSTER LALLU
 
 ɢɪᴛʜᴜʙ : Monsterlallu
 
-ɪɴsᴛᴀɢʀᴀᴍ : MONSTER
+ɪɴsᴛᴀɢʀᴀᴍ :monster_lallu_official
 
-ᴡᴇʙsɪᴛᴇ : ᴡᴡᴡ.ᴄᴄᴏғғɪᴄɪᴀʟ.ɢᴀ
+ᴡᴇʙsɪᴛᴇ : ᴡᴡᴡ.MLᴏғғɪᴄɪᴀʟ.ɢᴀ
 
 ᴇᴍᴀɪʟ : monsterlallu@ɢᴍᴀɪʟ.ᴄᴏᴍ  """
 for letter in string:
