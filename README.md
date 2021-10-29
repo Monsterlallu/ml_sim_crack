@@ -39,7 +39,7 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 
 ## Usage:
 
-Run these commands to run cc_sim_crack
+Run these commands to run ml_sim_crack
 
 ### > For Termux:
 
