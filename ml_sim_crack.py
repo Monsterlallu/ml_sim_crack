@@ -14,7 +14,7 @@ def banner():
  printf "                        ██║╚██╔╝██║██║   ██║██║╚██╗██║╚════██║   ██║   ██╔══╝  ██╔══██╗  \n"
  printf "                        ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████║   ██║   ███████╗██║  ██║  \n"
  printf "                        ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝  \n"
-    printf "                                                                                  BY MONSTER LALLU  \n\n"
+    printf "                                                                             BY MONSTER LALLU  \n\n"
     printf "\e[1;32m                   ╔═<><><><><><><><><><><><><><><><><><><><><><><><><><><>═╗\n"
     printf "\e[1;32m                   ║    \e[0m\e[1;95m OTP and CALL Bombing POWERFULL CRACKING SCRIPT     \e[1;32m║\n"
     printf "\e[1;32m                              \e[0m\e[1;95m Developed by:\e[31m MONSTER LALLU OFFICIAL      \n"
